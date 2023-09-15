@@ -19,7 +19,10 @@ class ViewController: UIViewController {
         print("I am tack1 barnch")
 
     }
-
+    let x = 5
+    let y = 100
+    
+    let name = "MATT"
 
 }
 
