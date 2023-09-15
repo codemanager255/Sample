@@ -16,6 +16,7 @@
 		042F4AD12AB488090041927A /* SampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F4AD02AB488090041927A /* SampleTests.swift */; };
 		042F4ADB2AB488090041927A /* SampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F4ADA2AB488090041927A /* SampleUITests.swift */; };
 		042F4ADD2AB488090041927A /* SampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F4ADC2AB488090041927A /* SampleUITestsLaunchTests.swift */; };
+		042F4AEA2AB49E290041927A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F4AE92AB49E290041927A /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		042F4AD62AB488090041927A /* SampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		042F4ADA2AB488090041927A /* SampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleUITests.swift; sourceTree = "<group>"; };
 		042F4ADC2AB488090041927A /* SampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		042F4AE92AB49E290041927A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				042F4AB92AB488030041927A /* AppDelegate.swift */,
 				042F4ABB2AB488030041927A /* SceneDelegate.swift */,
+				042F4AE92AB49E290041927A /* LoginViewController.swift */,
 				042F4ABD2AB488030041927A /* ViewController.swift */,
 				042F4ABF2AB488030041927A /* Main.storyboard */,
 				042F4AC22AB488080041927A /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				042F4AEA2AB49E290041927A /* LoginViewController.swift in Sources */,
 				042F4ABE2AB488030041927A /* ViewController.swift in Sources */,
 				042F4ABA2AB488030041927A /* AppDelegate.swift in Sources */,
 				042F4ABC2AB488030041927A /* SceneDelegate.swift in Sources */,
