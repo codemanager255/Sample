@@ -107,11 +107,11 @@
 				042F4ABB2AB488030041927A /* SceneDelegate.swift */,
 				042F4AE92AB49E290041927A /* LoginViewController.swift */,
 				042F4ABD2AB488030041927A /* ViewController.swift */,
+				027689D32AB4AAFA00904225 /* TestViewController.swift */,
 				042F4ABF2AB488030041927A /* Main.storyboard */,
 				042F4AC22AB488080041927A /* Assets.xcassets */,
 				042F4AC42AB488080041927A /* LaunchScreen.storyboard */,
 				042F4AC72AB488080041927A /* Info.plist */,
-				027689D32AB4AAFA00904225 /* TestViewController.swift */,
 			);
 			path = Sample;
 			sourceTree = "<group>";
@@ -456,7 +456,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.fredy.Sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -483,7 +483,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.fredy.Sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
