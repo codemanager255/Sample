@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		027689D42AB4AAFA00904225 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027689D32AB4AAFA00904225 /* TestViewController.swift */; };
 		042F4ABA2AB488030041927A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F4AB92AB488030041927A /* AppDelegate.swift */; };
 		042F4ABC2AB488030041927A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F4ABB2AB488030041927A /* SceneDelegate.swift */; };
 		042F4ABE2AB488030041927A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042F4ABD2AB488030041927A /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		027689D32AB4AAFA00904225 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		042F4AB62AB488030041927A /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		042F4AB92AB488030041927A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		042F4ABB2AB488030041927A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				042F4AC22AB488080041927A /* Assets.xcassets */,
 				042F4AC42AB488080041927A /* LaunchScreen.storyboard */,
 				042F4AC72AB488080041927A /* Info.plist */,
+				027689D32AB4AAFA00904225 /* TestViewController.swift */,
 			);
 			path = Sample;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				027689D42AB4AAFA00904225 /* TestViewController.swift in Sources */,
 				042F4AEA2AB49E290041927A /* LoginViewController.swift in Sources */,
 				042F4ABE2AB488030041927A /* ViewController.swift in Sources */,
 				042F4ABA2AB488030041927A /* AppDelegate.swift in Sources */,

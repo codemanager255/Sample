@@ -1,21 +1,20 @@
 //
-//  LoginViewController.swift
+//  TestViewController.swift
 //  Sample
 //
-//  Created by MAC on 15/09/23.
+//  Created by Consultant on 9/15/23.
 //
 
 import UIKit
 
-class LoginViewController: UIViewController {
+class TestViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-    
-    let sx = 3
+    let y = 40259
 
     /*
     // MARK: - Navigation
